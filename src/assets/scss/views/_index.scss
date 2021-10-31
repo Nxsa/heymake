@@ -1,0 +1,9 @@
+.pg-index {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .brand-img {
+    width: 240px;
+    transition: opacity 2.5s !important;
+  }
+}
